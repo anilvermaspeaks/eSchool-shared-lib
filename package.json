@@ -1,5 +1,4 @@
 {
-  "name": "eschool-shared-lib",  
   "version": "0.0.1",
     "license": "MIT",
     "types": "./src/index.d.ts",
@@ -14,7 +13,7 @@
       "trailingComma": "es5"
     },
     "keywords": [],
-    "name": "@anilvermaspeaks/eSchool-shared-lib",
+    "name": "@anilvermaspeaks/eschool-shared-lib",
     "author": "anilvermaspeaks",
     "repository": {
       "type": "git",
