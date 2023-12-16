@@ -1,0 +1,26 @@
+# eSchool Market Place non functional requirements
+
+### Scalability
+ system should be able to scale to accomodate load during peak time
+
+### Availability
+1. System should be available 99.99% of time
+2. Failover mechanishm should ensure high availability in case of failure
+
+
+### Reliability
+1. System should perform adequately/consistently
+
+### Maintainability
+1. Should follow best practices
+2. Regular code reviews
+3. Automated testing
+
+### Usability 
+1. User should find the system easy to use
+
+### Performant
+1. System should perform good 
+
+
+
