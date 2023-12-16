@@ -1,5 +1,6 @@
 {
-    "version": "0.0.1",
+  "name": "eschool-shared-lib",  
+  "version": "0.0.1",
     "license": "MIT",
     "types": "./src/index.d.ts",
     "description": "Helpers library for eSchool app",
